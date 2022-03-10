@@ -1,0 +1,32 @@
+.skill {
+  padding-top: 3rem;
+  background-color: $bg;
+  color: $white;
+
+  .grid-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    .icon-wrapper {
+      position: relative;
+      width: 25%;
+      text-align: center;
+
+      .skill1 {
+        margin-bottom: 1.5rem;
+      }
+
+      .skill-icon {
+        font-size: 70px;
+        color: $nm-text;
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 975px) {
+  .skill {
+    padding-top: 5rem;
+  }
+}

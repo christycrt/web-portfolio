@@ -1,0 +1,44 @@
+[
+    {
+        "slug": "annoucer",
+        "image": "/images/projectimg/project0.png",
+        "name": "Annoucer (Senior Project)",
+        "tool": "HTML | CSS | NextJS"
+    },
+    {
+        "slug": "intro-component-with-signup-form",
+        "image": "/images/projectimg/project5.png",
+        "name": "Intro component with sign-up form",
+        "tool": "HTML | CSS | React"
+    },
+    {
+        "slug": "pricing-component-with-toggle",
+        "image": "/images/projectimg/project6.png",
+        "name": "Pricing component with toggle",
+        "tool": "HTML | CSS | React"
+    },
+    {
+        "slug": "single-price-grid-component",
+        "image": "/images/projectimg/project1.png",
+        "name": "Single price grid component",
+        "tool": "HTML | CSS"
+    },
+    {
+        "slug": "four-card-feature-section",
+        "image": "/images/projectimg/project2.png",
+        "name": "Four card feature section",
+        "tool": "HTML | CSS"
+    },
+    {
+        "slug": "huddle-landing-page",
+        "image": "/images/projectimg/project3.png",
+        "name": "Huddle landing page with a single introductory section",
+        "tool": "HTML | CSS"
+    },
+    {
+        "slug": "base-apparel-page",
+        "image": "/images/projectimg/project4.png",
+        "name": "Base Apparel coming soon page",
+        "tool": "HTML | CSS | JS"
+    }
+]

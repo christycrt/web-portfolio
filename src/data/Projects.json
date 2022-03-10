@@ -1,0 +1,58 @@
+{
+    "annoucer": {
+        "slug": "annoucer",
+        "image": "/images/projectimg/project0.png",
+        "name": "Annoucer (Senior Project)",
+        "tool": "HTML | CSS | NextJS",
+        "github": "https://github.com/announcer-project/fe-announcer",
+        "preview": "https://seniorproject.sit.kmutt.ac.th/showproject/IT60-BU55"
+    },
+    "intro-component-with-signup-form": {
+        "slug": "intro-component-with-signup-form",
+        "image": "/images/projectimg/project5.png",
+        "name": "Intro component with sign-up form",
+        "tool": "HTML | CSS | React",
+        "github": "https://github.com/christycrt/intro-component-with-signup-form",
+        "preview": "https://intro-component-with-signup-form-christycrt.vercel.app/"
+    },
+    "pricing-component-with-toggle": {
+        "slug": "pricing-component-with-toggle",
+        "image": "/images/projectimg/project6.png",
+        "name": "Pricing component with toggle",
+        "tool": "HTML | CSS | React",
+        "github": "https://github.com/christycrt/pricing-component-with-toggle",
+        "preview": "https://pricing-component-with-toggle-gilt.vercel.app/"
+    },
+    "single-price-grid-component": {
+        "slug": "single-price-grid-component",
+        "image": "/images/projectimg/project1.png",
+        "name": "Single price grid component",
+        "tool": "HTML | CSS Grid",
+        "github": "https://github.com/christycrt/single-price-grid-component",
+        "preview": "https://single-price-grid-component-two-nu.vercel.app/"
+    },
+    "four-card-feature-section": {
+        "slug": "four-card-feature-section",
+        "image": "/images/projectimg/project2.png",
+        "name": "Four card feature section",
+        "tool": "HTML | CSS Grid",
+        "github": "https://github.com/christycrt/four-card-feature-section",
+        "preview": "https://four-card-feature-section-rose-omega.vercel.app/"
+    },
+    "huddle-landing-page": {
+        "slug": "huddle-landing-page",
+        "image": "/images/projectimg/project3.png",
+        "name": "Huddle landing page with a single introductory section",
+        "tool": "HTML | CSS",
+        "github": "https://github.com/christycrt/huddle-landing-page",
+        "preview": "https://huddle-landing-page-pi-three.vercel.app/"
+    },
+    "base-apparel-page": {
+        "slug": "base-apparel-page",
+        "image": "/images/projectimg/project4.png",
+        "name": "Base Apparel coming soon page",
+        "tool": "HTML | CSS | JS",
+        "github": "https://github.com/christycrt/base-apparel-page",
+        "preview": "https://base-apparel-page-swart.vercel.app/"
+    }
+}

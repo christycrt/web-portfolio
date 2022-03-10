@@ -1,0 +1,62 @@
+.education {
+  padding-top: 3rem;
+  padding-bottom: 1.5rem;
+  background-color: $bg;
+
+  .education-wrapper {
+    .education-box {
+      background-color: $white;
+      padding: 2rem 2rem;
+      border-radius: 25px;
+      box-shadow: 0px 5px 20px #e0e0e0;
+      color: $nm-text;
+
+      .education-box-1,
+      .education-box-2 {
+        display: grid;
+        grid-template-columns: 20px 1fr;
+
+        .edu-detail1 {
+          margin-bottom: 1.5rem;
+        }
+
+        p {
+          margin-bottom: 0;
+          line-height: 1.6;
+          position: relative;
+
+          .year {
+            position: absolute;
+            font-weight: 300;
+            top: 0px;
+          }
+
+          .major {
+            font-weight: 600;
+            color: $text;
+          }
+        }
+
+        .timeline {
+          border-left: 2px solid $text;
+          position: relative;
+
+          .icon {
+            position: absolute;
+            font-size: 24px;
+            color: $text;
+            right: 7px;
+            top: -5px;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media screen and (min-width: 975px) {
+  .education {
+    padding-top: 5rem;
+    padding-bottom: 2.5rem;
+  }
+}

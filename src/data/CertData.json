@@ -1,0 +1,26 @@
+[
+    {
+        "image": "images/certimg/certificate1.png",
+        "course": "Mastering Web Development with React",
+        "web": "Skooldio",
+        "year": "2021"
+    },
+    {
+        "image": "images/certimg/certificate2.png",
+        "course": "React Hooks in Action",
+        "web": "Skooldio",
+        "year": "2021"
+    },
+    {
+        "image": "images/certimg/certificate3.png",
+        "course": "Modern JavaScript (ES6)",
+        "web": "Skooldio",
+        "year": "2021"
+    },
+    {
+        "image": "images/certimg/certificate4.png",
+        "course": "Responsive Web Design",
+        "web": "freeCodeCamp.org",
+        "year": "2021"
+    }
+]
