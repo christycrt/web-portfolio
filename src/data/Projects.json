@@ -54,5 +54,21 @@
         "tool": "HTML | CSS | JS",
         "github": "https://github.com/christycrt/base-apparel-page",
         "preview": "https://base-apparel-page-swart.vercel.app/"
+    },
+    "url-shortening-api": {
+        "slug": "url-shortening-api",
+        "image": "/images/projectimg/project7.png",
+        "name": "URL shortening API landing page",
+        "tool": "HTML | CSS | NextJS",
+        "github": "https://github.com/christycrt/url-shorten-api",
+        "preview": "https://url-shorten-api-christycrt.vercel.app/"
+    },
+    "rest-contries-api": {
+        "slug": "rest-contries-api",
+        "image": "/images/projectimg/project8.png",
+        "name": "REST Countries API with color theme switcher",
+        "tool": "HTML | CSS | React",
+        "github": "https://github.com/christycrt/rest-countries-api",
+        "preview": "https://rest-countries-api-christycrt.vercel.app/"
     }
 }

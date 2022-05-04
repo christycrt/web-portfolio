@@ -40,5 +40,17 @@
         "image": "/images/projectimg/project4.png",
         "name": "Base Apparel coming soon page",
         "tool": "HTML | CSS | JS"
+    },
+    {
+        "slug": "url-shortening-api",
+        "image": "/images/projectimg/project7.png",
+        "name": "URL shortening API landing page",
+        "tool": "HTML | CSS | NextJS"
+    },
+    {
+        "slug": "rest-contries-api",
+        "image": "/images/projectimg/project8.png",
+        "name": "REST Countries API with color theme switcher",
+        "tool": "HTML | CSS | React"
     }
 ]
