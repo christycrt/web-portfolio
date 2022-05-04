@@ -15,8 +15,9 @@
       object-fit: cover;
       margin: 0 auto 1rem auto;
       border-radius: 50%;
-      border: 10px solid hsl(51, 100%, 73%);
+      border: 10px solid hsl(0, 0%, 100%);
     }
+    // hsl(51, 100%, 73%)
 
     .name {
       font-size: $head2;
