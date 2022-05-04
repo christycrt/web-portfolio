@@ -14,8 +14,10 @@ const About = () => {
             </div>
             <div className="col-12 col-sm-9">
               <div className="about-box">
-                I am Jeeranan Phaksongsri. I am interested in web developing
-                <a href="/Resume.pdf" download>
+                I am Jeeranan Phaksongsri. Seeking a job as a frontend developer
+                in organization that give an opportunity to use my knowledge of
+                HTML, CSS and frameworks to create website that have real users.
+                <a href="/Resume-JEERANAN PHAKSONGSRI.pdf" download>
                   <button className="dowload-btn">Dowload resume</button>
                 </a>
               </div>
